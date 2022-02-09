@@ -45,7 +45,7 @@ params:
       description: ""
       category: API
     - name: Auth Service
-      category: API
+      category: Uncategorized
     - name: K8s
       category: Uncategorized
     - name: Function Apps
