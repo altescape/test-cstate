@@ -42,10 +42,10 @@ params:
     - name: External API
       category: API
     - name: Charity API
-      description: The guts of the application.
+      description: ""
       category: API
     - name: Auth Service
-      category: Uncategorized
+      category: API
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -64,7 +64,7 @@ params:
   categories:
     - name: API
       description: Core APIs
-      closed: true
+      closed: false
       untitled: true
     - name: Uncategorized
       untitled: true
