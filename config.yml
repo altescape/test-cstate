@@ -2,7 +2,7 @@ title: Eggsample Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://musing-goodall-547242.netlify.app
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
