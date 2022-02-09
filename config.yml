@@ -65,6 +65,7 @@ params:
     - name: API
       description: Core APIs
       closed: true
+      untitled: true
     - name: Uncategorized
       untitled: true
   description: We continuously monitor the status of our services and if there are
