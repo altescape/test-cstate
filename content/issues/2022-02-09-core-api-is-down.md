@@ -2,7 +2,7 @@
 section: issue
 title: Core API is down
 date: 2022-02-09T11:34:02.777Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: 2022-02-09T11:34:02.793Z
