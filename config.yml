@@ -46,6 +46,10 @@ params:
       category: API
     - name: Auth Service
       category: API
+    - name: K8s
+      category: Uncategorized
+    - name: Function Apps
+      category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
